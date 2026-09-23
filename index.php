@@ -1,4 +1,4 @@
-<?php
+Paul <?php
 // Configuration générale du site : modifiez uniquement cette zone pour commencer.
 $site = [
 	'name' => 'Mon projet',
